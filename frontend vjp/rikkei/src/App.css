@@ -1,0 +1,400 @@
+
+@media only screen and (min-width: 1669px) {
+  .top-left {
+    position: relative;
+    left: 205px;
+    bottom: 60px;
+  }
+
+}
+
+@media only screen and (max-width: 740px) {
+  .phonbait {
+    display: none;
+  }
+
+  .contact h3 {
+    font-size: 1.2rem;
+  }
+
+  .home-contact {
+    font-size: 0.5rem;
+  }
+
+  .anyquery p {
+    font-size: 1rem;
+  }
+
+  .teamcart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+
+@media only screen and (max-width: 393px) {
+  .container .service-content .row h5 {
+    font-size: 38px !important;
+  }
+
+  .container .service-content .row h2 {
+    font-size: 39px !important;
+  }
+
+}
+
+
+@media only screen and (max-width: 414px) {
+  .banner-bottom-text {
+    position: absolute;
+    bottom: 221px;
+    right: 100px;
+    background: #fff;
+    padding: 5px;
+    max-width: 380px;
+    font-style: italic;
+  }
+
+  .menu_img_1 {
+    width: 2000px !important;
+  }
+
+  .sc-product-offcanvas-area2 {
+    width: 100%;
+  }
+
+
+
+  .menu_img_2 {
+    width: 935px !important;
+  }
+
+  .menu-img_1 {
+    width: 2560px !important;
+  }
+
+  .header-inner-area {
+    display: flex;
+    align-items: flex-start !important;
+  }
+
+  .scholar-ship {
+    font-size: 22px !important;
+  }
+
+  .scholar_ship {
+    font-size: 23px !important;
+  }
+
+  .content_scholarship {
+    font-size: 18px !important;
+  }
+
+  .about-section {
+    padding-top: 50px;
+    padding-bottom: 50px !important;
+  }
+
+  .progress-area .progress-btm {
+    width: 100% !important;
+  }
+
+  .service-section-two {
+    padding-top: 40px !important;
+  }
+
+  .column_services {
+    display: flex;
+    flex-direction: column-reverse !important;
+  }
+
+  .padding-bottom-sch {
+    padding-bottom: 30px;
+  }
+
+  .progress-btm label {
+    margin-bottom: 0 !important;
+  }
+
+  .blog-section .container h2 {
+    font-size: 23px;
+    margin-bottom: 20px;
+  }
+
+  .blog-section .container h5 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .container .service-content .row h5 {
+    font-size: 45px;
+  }
+
+  .container .service-content .row h2 {
+    font-size: 40px;
+  }
+}
+
+@media only screen and (max-width: 987px) {
+  .container .service-item .row {
+    display: block;
+  }
+
+  .abc-xyz {
+    display: block;
+  }
+
+  .abc-xyz .col-md-6 {
+    width: 100%;
+  }
+
+}
+
+@media only screen and (max-width: 480px) {
+  .progress-area .progress {
+    width: 100% !important;
+  }
+
+  .about-content .about-button button {
+    width: 100% !important;
+  }
+
+  .gettong {
+    padding-top: 20px;
+  }
+
+  .banner-section {
+    padding-top: 120px;
+  }
+
+  .banner-section .slick-slide .content-box .tittle-text .slider-title {
+    font-size: 37px;
+
+  }
+
+  .footer-top .footer-logo img {
+    height: 52px;
+    position: relative;
+  }
+}
+
+.blog-item .blog-content {
+  position: relative;
+  z-index: 888;
+}
+
+
+
+@media only screen and (max-width: 375px) {
+  .scholar_ship {
+    font-size: 21px !important;
+  }
+
+  .scholar-ship {
+    font-size: 20px !important;
+  }
+
+  .content_scholarship {
+    font-size: 16px !important;
+  }
+}
+
+.scholar_ship {
+  font-size: 48px;
+}
+
+.scholar-ship {
+  font-size: 48px;
+}
+
+.content_scholarship {
+  font-size: 24px;
+}
+
+@media only screen and (max-width: 393px) {
+  .scholar_ship {
+    font-size: 21px !important;
+  }
+
+  .scholar-ship {
+    font-size: 20px !important;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  .scholar_ship {
+    font-size: 44px;
+  }
+
+  .checkbok {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .hocvan {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .link_ytsch {
+    position: absolute;
+    max-width: 60px;
+    top: 42%;
+    left: 42%;
+  }
+
+  .blog-item .blog-content .text {
+    padding: 367px 50px 55px 35px;
+  }
+
+
+
+  .benefit-section .row {
+    display: flex;
+    justify-content: center !important;
+  }
+
+
+  .scholar-ship {
+    font-size: 42px;
+  }
+
+  .content_scholarship {
+    font-size: 22px;
+  }
+
+  .anyquery p {
+    font-size: 1.1rem;
+  }
+
+  .sense p {
+    font-size: 0.7rem;
+  }
+
+  .get p {
+    font-size: 1.1rem;
+  }
+
+  .your-email p {
+    font-size: 0.7rem;
+  }
+
+  .rikkei-com {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about-case p {
+    display: none;
+  }
+
+  .rikkeiacademy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .button {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .main-header-two .header-inner-area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .margin-right-ss {
+    margin-right: 0px;
+  }
+
+  .bottom_margin {
+    margin-bottom: 80px;
+  }
+
+  .blog-item .blog-content .text {
+    padding: 315px 50px 55px 35px;
+  }
+
+  .about-section {
+    padding-bottom: 60px;
+  }
+
+  .menu_img_1 {
+    width: 900px;
+  }
+
+  .scholar-ship {
+    font-size: 35px;
+  }
+
+  .scholar_ship {
+    font-size: 36px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .pt-md-5 {
+    padding-top: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .about-section.pl-about {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 100px;
+  }
+
+  .about-section .about-content {
+    padding-left: 0;
+    margin-bottom: 0px;
+  }
+
+  .progress-btm {
+    width: 100%;
+  }
+
+  .column_services {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .col-md-8 {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .col-md-4 {
+    width: 100%;
+  }
+
+  .scholar-ship {
+    font-size: 39px;
+  }
+
+  .scholar_ship {
+    font-size: 41px;
+  }
+
+  .provide-accordion-box {
+    max-width: 100%;
+  }
+
+  .footer-top .row {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 1199px) {
+
+  .progress-area .progress,
+  .progress-area .progress-btm {
+    width: 100% !important;
+  }
+}

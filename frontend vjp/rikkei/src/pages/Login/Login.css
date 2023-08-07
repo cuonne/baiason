@@ -1,0 +1,120 @@
+*{
+    
+        font-family: "Roboto Flex";
+        font-size: 16px;
+        scroll-behavior: smooth;
+
+}
+.ant-form-item-required::before{
+    color: transparent !important;
+}
+.login-form {
+    background-color: #fff;
+    width: 420px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    border-radius: 16px;
+    padding: 50px 50px 25px;
+}
+h3.ant-typography {
+    margin-bottom: 0.5em;
+    color: rgba(0,0,0,.85);
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.35;
+}
+
+.login {
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    background-repeat: no-repeat;
+    background-color: #ddd;
+    padding: 0 10px;
+}
+.login__container {
+    display: flex;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}.logIn {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+.ant-row, .ant-row:after, .ant-row:before {
+    display: flex;
+}
+.ant-form-item{
+    flex: auto;
+}
+.ant-form-item-label{
+    flex: auto;
+    color: rgba(0,0,0,.85);
+    word-break: break-word;
+font-weight: 600;
+}
+.ant-input-affix-wrapper{
+    box-sizing: border-box;
+    padding: 0;
+    color: rgba(0,0,0,.85);
+    /* font-size: 14px; */
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    font-feature-settings: "tnum";
+    /* margin: 0 0 24px; */
+    vertical-align: top;
+    max-width: 100%;
+}
+.ant-input{
+    height: 40px;
+}
+.ant-input-prefix{
+    display: none!important;
+}
+.ant-input-affix-wrapper{
+    line-height: 40px;
+    padding: 0 16px;
+    border-radius: 8px;
+}
+.ant-form-item-control-input{
+    margin-top: -20px;
+}
+.login-form-forgot{
+    display: flex;
+    margin-top: 20px;
+    justify-content: end;
+    margin-bottom: 15px;
+color: rgb(187, 35, 39);
+}
+.ant-btn{
+    width: 100%;
+    flex: auto;
+    color: #fff;
+    border-color: #1890ff;
+    border-color: rgb(187, 35, 39);;
+    background: #1890ff;
+    background: rgb(187, 35, 39);;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.12);
+    box-shadow: 0 2px 0 rgba(0,0,0,.045);
+
+    font-size: 14px;
+    height: 45px;
+    padding: 4px 15px;
+    border-radius: 8px;
+
+}
+.btn{
+    cursor: pointer;
+}
+ .ant-btn-link {
+    margin-top: 20px;
+    color: rgb(187, 35, 39);;
+    border-color: transparent;
+    background: transparent;
+    box-shadow: none;
+    margin-left: -90px;
+ }

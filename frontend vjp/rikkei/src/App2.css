@@ -1,0 +1,1095 @@
+* {
+    font-family: "Mulish", sans-serif !important;
+    margin: 0;
+
+  }
+
+  .banner-bottom-text p:before {
+    display: none !important;
+  }
+
+  .blog-content {
+    height: 100%;
+  }
+
+  .blog-section figure {
+    height: 100%;
+  }
+
+  .banner-bottom-text {
+    position: absolute;
+    right: 100px;
+    background: #fff;
+    padding: 14px;
+    max-width: 380px;
+    font-style: italic;
+  }
+
+  .slick-prev {
+    display: none !important;
+  }
+
+  .slick-next {
+    display: none !important;
+  }
+
+  .banner-section .content-box {
+    max-width: 100%;
+    position: relative;
+    z-index: 9;
+   align-items: center;
+   vertical-align: middle;
+   text-align: center;
+   
+  }
+
+
+
+  /* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+  .containertong {
+    width: 100%;
+    height: 100%;
+  }
+
+  .contang {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-top: 1%;
+  }
+
+  .nav-itemone {
+    width: 40%;
+    text-align: center;
+  }
+
+  .nav-itemone img {
+    width: 15%;
+  }
+
+  .phonbait {
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .nav-itemmail {
+    display: flex;
+    align-items: center;
+    gap: 2%;
+  }
+
+  .nav-itemmail ion-icon {
+    color: red;
+    font-size: 1.3rem;
+  }
+
+  .nav-itemmail label {
+    color: #040a27;
+    font-size: 12px;
+    transition: 0.4s;
+    font-weight: 600;
+  }
+
+  .nav-itemchat {
+    display: flex;
+    align-items: center;
+    gap: 5%;
+  }
+
+  .nav-itemchat ion-icon {
+    color: red;
+    font-size: 1.3rem;
+  }
+
+  .nav-itemchat label {
+    color: #040a27;
+    font-size: 12px;
+    transition: 0.4s;
+    font-weight: 600;
+  }
+
+  .button {
+    width: 30%;
+  }
+
+  .button button {
+    width: 50%;
+    padding: 2% 0% 2% 0%;
+    font-size: 1rem;
+    font-weight: 700;
+    outline: none;
+    text-transform: uppercase;
+    background: #002841;
+    border: 0;
+    color: white;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: color 0.4s ease;
+    overflow: hidden;
+  }
+
+  .collapse {
+    width: 100%;
+  }
+
+  .activecity {
+    color: #fff;
+    transition: 0.4s;
+    font-weight: 600;
+    font-size: 15px;
+  }
+
+  .activecitim {
+    color: #fff;
+    transition: 0.4s;
+    font-weight: 600;
+    font-size: 15px;
+  }
+
+  .contact {
+    width: 100%;
+    text-align: center;
+    padding: 8% 0;
+    content: "";
+    top: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(#d4f1, #000);
+    opacity: 0.7;
+  }
+
+  .navbar-nav {
+    width: 60%;
+    margin-left: 16%;
+  }
+
+  .navbar-light .navbar-nav .nav-link.active {
+    color: white;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    color: white;
+  }
+
+  .about_sch {
+    font-size: 50px;
+  }
+
+  .about_sch1 {
+    font-size: 40px;
+  }
+
+  .d-flex {
+    width: 40%;
+    margin-left: 1%;
+  }
+
+  .d-flex .form-control {
+    width: 40%;
+  }
+
+  .contact h3 {
+    font-family: "HK Grotesk";
+    font-size: 64px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .home-contact {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    gap: 1%;
+    color: white;
+    font-weight: 500;
+  }
+
+  .home-contact :hover {
+    color: red;
+    cursor: pointer;
+  }
+
+  .teamcart {
+    width: 89%;
+    display: flex;
+    padding: 5% 0;
+    margin: auto;
+  }
+
+  .teamone p {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    color: #df2e2e;
+    font-family: "HK Grotesk";
+    display: block;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+
+  .anyquery {
+    width: 90%;
+  }
+
+  .anyquery p {
+    width: 90%;
+    font-size: 40px;
+    font-family: "HK Grotesk";
+    font-size: 50px;
+    font-weight: 600;
+    color: #040a27;
+    line-height: 1;
+    display: block;
+    margin-bottom: 25px;
+  }
+
+  .sense {
+    width: 80%;
+  }
+
+  .sense p {
+    font-family: "Mulish", sans-serif !important;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #686a72;
+  }
+
+  .phone {
+    display: flex;
+    gap: 5%;
+  }
+
+  .phone ion-icon {
+    font-size: 2vw;
+    margin-top: 1%;
+  }
+
+  .number .phone-title {
+    font-weight: 600;
+    font-size: 1vw;
+    color: #040a27;
+    font-family: "HK Grotesk";
+  }
+
+  .number p {
+    color: #676767;
+    transition: 0.4s;
+    font-size: 1vw;
+  }
+
+  .email {
+    display: flex;
+    gap: 5%;
+  }
+
+  .email ion-icon {
+    font-size: 2vw;
+    margin-top: 1%;
+  }
+
+  .email-cart .email-title {
+    font-weight: 600;
+    font-size: 1vw;
+    color: #040a27;
+    font-family: "HK Grotesk";
+  }
+
+  .email p {
+    color: #676767;
+    transition: 0.4s;
+    font-size: 1vw;
+  }
+
+  .office-hour {
+    display: flex;
+    gap: 5%;
+  }
+
+  .office-hour ion-icon {
+    font-size: 2vw;
+    margin-top: 1%;
+  }
+
+  .hour-time .time-title {
+    font-weight: 600;
+    font-size: 1vw;
+    color: #040a27;
+    font-family: "HK Grotesk";
+  }
+
+  .hour-time p {
+    color: #676767;
+    transition: 0.4s;
+    font-size: 1vw;
+  }
+
+  .page-contact-section .contact-form textarea {
+    width: 100%;
+    padding: 15px 20px 110px;
+    border: 1px solid rgba(0, 0, 0, 0.13);
+  }
+
+  .carttong1 {
+    width: 35%;
+    margin: auto;
+    margin-top: 1%;
+  }
+
+  .gettong {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+
+  .get p {
+    color: #040a27;
+    font-weight: 600;
+    font-size: 36px;
+    font-family: "HK Grotesk";
+  }
+
+  .your-email p {
+    line-height: 1.7;
+  }
+
+  .first-last {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3%;
+  }
+
+  .first-last input {
+    width: 100%;
+    padding: 1% 0% 1% 2%;
+    border: none;
+    border: 1px solid rgba(0, 0, 0, 0.13);
+    outline-color: #7cadcc;
+  }
+
+  .email-input {
+    width: 100%;
+    padding-bottom: 3%;
+  }
+
+  .email-input input {
+    width: 100%;
+    padding: 1% 0% 1% 2%;
+    border: none;
+    outline-color: #7cadcc;
+    border: 1px solid rgba(0, 0, 0, 0.13);
+  }
+
+  .textarea.form-control {
+    width: 100%;
+  }
+
+  .wpcf7-form-control {
+    width: 100%;
+    margin-bottom: 3%;
+  }
+
+  .button-send {
+    width: 100%;
+  }
+
+  .button-send button {
+    width: 100%;
+    padding: 1% 0% 1% 2%;
+    transition: 0.4s;
+    padding: 13px;
+    background: #002841;
+    border: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: "HK Grotesk";
+  }
+
+  .imgmap {
+    width: 88%;
+    margin: auto;
+    padding: 0 0% 10%;
+  }
+
+  .imgmap iframe {
+    width: 98%;
+  }
+
+  .menu-icon {
+    background-color: #000;
+    color: white;
+  }
+
+  .rikkei-com {
+    background-image: url(https://wpriverthemes.com/nvisor/wp-content/themes/nvisor/sources/img/footer-bg2-comp.jpg);
+    width: 100%;
+
+  }
+
+  .rikkeiacademy {
+    width: 100%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+    margin: auto;
+    color: white;
+    display: flex;
+  }
+
+  .canvas_expanded .sc-product-offcanvas-area,
+  .canvas_expanded .sc-overlay-bg2 {
+    opacity: 0 !important;
+    visibility: visible;
+  }
+
+  .about-case {
+    width: 100%;
+    text-align: center;
+  }
+
+  .about-case p {
+    font-family: "Mulish", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #cacaca;
+    display: inline-block;
+    transition: .4s;
+    padding: 0 38px;
+  }
+
+  .about-case p:hover {
+    color: rgb(107, 102, 102);
+    cursor: pointer;
+  }
+
+  .nvisor {
+    width: 30%;
+    font-size: 15px;
+    line-height: 150%;
+    margin-left: 6%;
+    color: #8f8a8a;
+    font-weight: 400;
+    padding: 30px 0 40px;
+  }
+
+  .nvisor img {
+    width: 50%;
+    padding-bottom: 2%;
+  }
+
+  .nvisor p {
+    width: 75%;
+  }
+
+  .ioncon {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    font-size: 1.5vw;
+  }
+
+  .ioncon ion-icon {
+    background-color: rgb(46, 45, 45);
+    border-radius: 50%;
+    color: white;
+  }
+
+  .coporight {
+    width: 100%;
+    text-align: center;
+    padding: 1.5% 0;
+    background: #212529;
+  }
+
+  .coporight p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 1%;
+  }
+
+  .ioncon ion-icon:hover {
+    color: rgb(202, 28, 28);
+    cursor: pointer;
+  }
+
+  .usefull {
+    width: 20%;
+    margin-top: 2%;
+  }
+
+  .usefull h4 {
+    color: white;
+    padding-bottom: 4%;
+  }
+
+  .usefull p {
+    font-family: "Mulish", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #cacaca;
+    transition: .4s;
+    padding-bottom: 3%;
+  }
+
+  .usefull p:hover {
+    color: rgb(107, 102, 102);
+    cursor: pointer;
+  }
+
+  .solution p:hover {
+    color: rgb(107, 102, 102);
+    cursor: pointer;
+  }
+
+  .contactss .map:hover {
+    color: rgb(107, 102, 102);
+    cursor: pointer;
+  }
+
+  .contactss .numberone:hover {
+    color: rgb(107, 102, 102);
+    cursor: pointer;
+  }
+
+  .contactss .word:hover {
+    color: rgb(107, 102, 102);
+    cursor: pointer;
+  }
+
+  .solution {
+    width: 20%;
+    margin-top: 2%;
+
+  }
+
+  .solution h4 {
+    color: white;
+    padding-bottom: 4%;
+  }
+
+  .solution p {
+    font-family: "Mulish", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #cacaca;
+    transition: .4s;
+    padding-bottom: 3%;
+  }
+
+  .contactss {
+    width: 20%;
+    margin-top: 2%;
+  }
+
+  .contactss h4 {
+    color: white;
+    padding-bottom: 5%;
+  }
+
+  .map {
+    display: flex;
+    align-items: center;
+    gap: 5%;
+    font-family: "Mulish", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #cacaca;
+    transition: .4s;
+  }
+
+  .offcanvas ul {
+    padding: 30px 0 0;
+  }
+
+  .offcanvas ul li p {
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 0;
+    color: #1d2746;
+  }
+
+  .offcanvas ul li strong {
+    font-family: "Mulish", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #232323;
+    transition: .4s;
+  }
+
+  .offcanvas {
+    width: 400px;
+    z-index: 9999;
+    padding: 30px;
+    background-color:#831818 !important;
+  }
+
+  .map ion-icon {
+    font-size: 2vw;
+  }
+
+  .map p {
+    margin-top: 3%;
+  }
+
+  .numberone {
+    display: flex;
+    align-items: center;
+    gap: 5%;
+    font-family: "Mulish", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #cacaca;
+    transition: .4s;
+  }
+
+  .numberone ion-icon {
+    font-size: 1.5vw;
+  }
+
+  .numberone p {
+    margin-top: 3%;
+  }
+
+  .word {
+    display: flex;
+    align-items: center;
+    gap: 5%;
+    font-family: "Mulish", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 150%;
+    color: #cacaca;
+    transition: .4s;
+  }
+
+  .word ion-icon {
+    font-size: 1.5vw;
+  }
+
+  .word p {
+    margin-top: 3%;
+  }
+
+
+
+  /* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+  .register {
+    width: 100%;
+    height: 100%;
+  }
+
+  .resettor {
+    width: 50%;
+    border: 1px solid rgb(87, 87, 87);
+    /* background-image: url(https://img.meta.com.vn/Data/image/2021/04/02/anh-trang-19.jpg); */
+    border-radius: 15px;
+  }
+
+  .resettor .taitilinice {
+    width: 100%;
+    text-align: center;
+    color: black;
+    padding-top: 2%;
+    font-weight: 700;
+    color: #6f44d8;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 20px;
+  }
+
+  .tagname {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-bottom: 3%;
+  }
+
+  .people {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    border-width: 0 0 1px;
+    border-color: #06bab1;
+    border-radius: 0;
+    gap: 2%;
+  }
+
+  .people ion-icon {
+    /* width: 100%; */
+    color: rgb(116, 114, 114);
+    font-size: 25px;
+  }
+
+  .people input {
+    border: none;
+    width: 100%;
+  }
+
+  .people input:focus-visible {
+    outline-style: none;
+  }
+
+  .date {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    border-width: 0 0 1px;
+    border-color: #06bab1;
+    border-radius: 0;
+    gap: 2%;
+  }
+
+  .date ion-icon {
+    /* width: 100%; */
+    font-size: 25px;
+    color: rgb(116, 114, 114);
+  }
+
+  .date input {
+    border: none;
+    width: 100%;
+    outline-style: none;
+  }
+
+  .phonenumber {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-bottom: 3%;
+  }
+
+  .titwei {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    border-width: 0 0 1px;
+    border-color: #06bab1;
+    border-radius: 0;
+    gap: 2%;
+  }
+
+  .titwei ion-icon {
+    /* width: 100%; */
+    font-size: 25px;
+    color: rgb(116, 114, 114);
+
+  }
+
+  .titwei input {
+    border: none;
+    width: 100%;
+    outline-style: none;
+  }
+
+  .email-com {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    border-width: 0 0 1px;
+    border-color: #06bab1;
+    border-radius: 0;
+    gap: 2%;
+  }
+
+  .email-com ion-icon {
+    /* width: 100%; */
+    font-size: 25px;
+    color: rgb(116, 114, 114);
+
+
+  }
+
+  .email-com input {
+    border: none;
+    width: 100%;
+    outline-style: none;
+  }
+
+  .vitri {
+    width: 87%;
+    display: flex;
+    border-style: solid;
+    border-width: 0 0 1px;
+    border-color: #06bab1;
+    border-radius: 0;
+    gap: 1%;
+    margin: auto;
+  }
+
+  .vitri ion-icon {
+    font-size: 25px;
+    color: rgb(116, 114, 114);
+
+
+  }
+
+  .vitri input {
+    border: none;
+    width: 100%;
+    outline-style: none;
+  }
+
+  .controner {
+    width: 100%;
+
+  }
+
+  .controner p {
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+  }
+
+  .controner label {
+    color: #f56c6c;
+    font-size: 18px;
+  }
+
+  .checkbok .input1 {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    align-items: baseline;
+    gap: 4%;
+  }
+
+  .input1 p {
+    color: rgb(20, 20, 20);
+    font-weight: 400;
+    width: 100%;
+  }
+
+  .input1 .trungungdoan {
+    width: 80%;
+  }
+
+  .checkbok {
+    display: flex;
+    width: 100%;
+  }
+
+  .hocvan {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .hocvan p {
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+  }
+
+  .hocvan label {
+    color: #f56c6c;
+    font-size: 18px;
+  }
+
+  .input2 p {
+    color: rgb(20, 20, 20);
+    font-weight: 400;
+    width: 100%;
+  }
+
+  .Education .input2 {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    align-items: baseline;
+    gap: 5%;
+  }
+
+  .Education {
+    display: flex;
+    width: 97%;
+    justify-content: space-between;
+  }
+
+  .classshoess {
+    display: flex;
+    width: 87%;
+    margin: auto;
+    align-items: flex-start;
+    padding-bottom: 2%;
+    gap: 2%;
+  }
+
+  .classshoess input {
+    width: 87%;
+    border: none;
+    border-style: solid;
+    border-width: 0 0 1px;
+    border-color: #06bab1;
+    border-radius: 0;
+    outline-style: none;
+  }
+
+  .classshoess p {
+    width: 15%;
+    color: rgb(12, 12, 12);
+    font-weight: 500;
+  }
+
+  .mota {
+    width: 87%;
+    margin: auto;
+    padding-bottom: 3%;
+  }
+
+  .mota p {
+    color: rgb(12, 12, 12);
+    font-weight: 500;
+  }
+
+  .mota input {
+    width: 100%;
+    border: none;
+    border-style: solid;
+    border-width: 0 0 1px;
+    border-color: #06bab1;
+    border-radius: 0;
+    outline-style: none;
+  }
+
+  .logo_footerpj {
+    width: 50px;
+  }
+
+  .mota label {
+    color: #f56c6c;
+    font-size: 18px;
+  }
+
+  .login {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 2%;
+  }
+
+  /* .login button {
+    width: 20%;
+    background-color: #ff4dc2 !important;
+    color: #fff;
+    border-radius: 100px;
+    padding: 10px 30px;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: none;
+  } */
+
+  textarea.form-control {
+    min-height: calc(3.5em + 0.75rem + calc(var(--bs-border-width) * 2)) !important;
+  }
+
+  .form-control {
+    padding: 0 0 0 10px;
+  }
+
+
+  .flex_start {
+    display: flex !important;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .blog-title {
+    margin-bottom: 0 !important;
+  }
+
+  .header-inner-area {
+    display: flex;
+    align-items: center;
+  }
+
+  .link_ytsch {
+    position: absolute;
+    max-width: 60px;
+    top: 42%;
+    left: 44%;
+  }
+
+  .margin-right-ss {
+    margin-right: 120px;
+  }
+
+  .main-header.main-header-two {
+    position: absolute;
+    z-index: 99;
+    width: 100%;
+}
+.main-header-two .header-inner-area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.header-inner-area {
+  display: flex;
+  align-items: center;
+}
+.upper-header .menu-navbar svg {
+  position: relative;
+  z-index: 9;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -webkit-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+}
+.slick-dots li button:before{
+  color: transparent !important;
+}
+.banner-section  .content-box .tittle-text .slider-title {
+  font-family: "HK Grotesk";
+  font-weight: 700;
+  font-size: 85px;
+  line-height: 1;
+  margin-bottom: 25px;
+  color: #fff;
+}
+.banner-section .content-box .tittle-text p {
+  font-size: 22px;
+  color: #fff;
+  margin-bottom: 45px;
+}
+.banner-section  .slick-slide {
+  position: relative;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+.slick-track{
+  display: flex !important;
+}
+#log{
+  height: 650px !important;
+}
